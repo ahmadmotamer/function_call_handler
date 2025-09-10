@@ -1,0 +1,22 @@
+PODS:
+  - FlutterMacOS (1.0.0)
+  - function_call_handler (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - function_call_handler (from `Flutter/ephemeral/.symlinks/plugins/function_call_handler/macos`)
+
+EXTERNAL SOURCES:
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  function_call_handler:
+    :path: Flutter/ephemeral/.symlinks/plugins/function_call_handler/macos
+
+SPEC CHECKSUMS:
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  function_call_handler: 7481931854192f56406408b6b0a2f0d45c05f035
+
+PODFILE CHECKSUM: 7eb978b976557c8c1cd717d8185ec483fd090a82
+
+COCOAPODS: 1.16.2
