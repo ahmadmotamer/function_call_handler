@@ -1,0 +1,65 @@
+# Dart/Pub specific
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+*.dart.js
+*.js.deps
+*.js.module
+*.js.tar.gz
+
+# Dependency files (for plugins, DO NOT commit pubspec.lock)
+pubspec.lock
+
+# Flutter platform/plugin artifacts
+android/.gradle/
+android/app/build/
+android/*/build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+ios/.symlinks/
+ios/Runner.xcworkspace/
+ios/build/
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/build/
+windows/build/
+web/build/
+linux/build/
+
+# Generated plugin registration files
+.generated/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins.dart
+
+# IDE/editor/workspace files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# OS hidden/system files
+.DS_Store
+Thumbs.db
+
+# Environment files/secrets (edit as needed)
+.env
+.env.*
+*.key
+*.pem
+
+# Log files
+*.log
+
+# Coverage/analysis
+coverage/
+*.lcov
+
+# Miscellaneous
+*.tmp
