@@ -32,6 +32,8 @@ Add to your `pubspec.yaml`:
 
 dependencies:
 async: ^2.10.0
+
+
 function_call_manager_plugin: ^0.0.1 # Replace with actual plugin name and version
 
 
@@ -44,6 +46,8 @@ flutter pub get
 ---
 
 ## Usage
+
+```
 
 import 'package:function_call_manager_plugin/function_call_manager_plugin.dart';
 
@@ -84,6 +88,8 @@ key: 'fetchData',
 );
 print(result3);
 }
+
+```
 
 
 ---
