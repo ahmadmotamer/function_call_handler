@@ -103,6 +103,13 @@ Runs the given async function with the specified execution strategy under the pr
 
 ---
 
+## License
+
+MIT License
+
+---
+
+
 ## Contributing
 
 Contributions and bug reports are welcome via GitHub.
